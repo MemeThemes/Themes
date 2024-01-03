@@ -5,12 +5,12 @@
 	"author": "Meme Themes",
 	"theme_color_map": {
 		"HEADER_PRIMARY": [
-			"16181c",
-			"00071a"
+			"#16181c",
+			"#00071a"
 		],
 		"INTERACTIVE_NORMAL": [
-			"00071a",
-			"16181c"
+			"#00071a",
+			"#16181c"
 		],
 	}
 }
