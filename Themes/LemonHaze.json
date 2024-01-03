@@ -151,7 +151,7 @@
     "CHAT_GREY": "#13151a"
   },
   "background": {
-    "blur": 1.0,
+    "blur": 0.1,
     "url": "https://github.com/MemeThemes/Themes/blob/main/Resources/LemonHaze.png?raw=true",
     "alpha": 1.0
   }
