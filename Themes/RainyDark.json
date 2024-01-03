@@ -7,6 +7,10 @@
 		"HEADER_PRIMARY": [
 			"16181c",
 			"00071a"
-		]
+		],
+		"HEADER_SECONDARY": [
+			"16181c",
+			"00071a"
+		],
 	}
 }
