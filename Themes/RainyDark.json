@@ -8,9 +8,9 @@
 			"16181c",
 			"00071a"
 		],
-		"HEADER_SECONDARY": [
-			"16181c",
-			"00071a"
+		"INTERACTIVE_NORMAL": [
+			"00071a",
+			"16181c"
 		],
 	}
 }
