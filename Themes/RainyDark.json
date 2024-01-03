@@ -1,0 +1,12 @@
+{
+	"name": "Rainy Dark",
+	"description": "Rainy Dark Theme",
+	"version": "1.0",
+	"author": "Meme Themes",
+	"theme_color_map": {
+		"HEADER_PRIMARY": [
+			"16181c",
+			"00071a"
+		]
+	}
+}
